@@ -28,7 +28,7 @@ or have any other concerns, please act to intercede or ask for help
 from any member of the Nexus Core community, IRC chat admins, website
 admins, or organizers/representatives of any physical events put on
 under the auspices of The Nexus, SJCET.
-Our Standards
+## Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
 
