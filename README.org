@@ -7,7 +7,6 @@ We support:
   -  Press
   -  Association on the Internet
 - The Right to:
-  - use encryption software for private communication
   - use, study, copy, modify, and redistribute computer programs  
   - study, modify, distribute, make, and sell the design or hardware based on that design.
   - write software and engineer hardware unimpeded by private monopolies 
